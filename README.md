@@ -15,3 +15,7 @@ Gradle常用命令日常练习
         (分支推送，需要指定推送分支)
         (从本地develop推送到remote master)
 
+### Test Four:
+
+    git tag 测试
+
